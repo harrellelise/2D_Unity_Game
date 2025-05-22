@@ -3,9 +3,13 @@ This is the video game I created for my Independent Study in my Senior Year at S
 
 ## Resources
 Thank you to all the Youtubers and creaters who's expertise and creations that allowed me to create this game.
+
 Music: DJARTMUSIC (https://pixabay.com/users/djartmusic-46653586/)
+
 Sound Effects: Universfield (https://pixabay.com/collections/game-sounds-24048808/)
+
 Sprites: Goldmetal Studio (Bolt 2D JellyFarm Assets Pack)
+
 Youtubers: **@Brackeys, @jadonUnity,** @maxodidily, @MetalStormGames, @hoosontech, @SpeedTutor, @WayraCodes
 
 ## Using the Repo
